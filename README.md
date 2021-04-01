@@ -27,6 +27,7 @@ This is a capstone project to Udacity's Data Scientist Nanodegree. The project i
 * README.md - Human readable file with information about the repo
 * Sparkify_RNieves_Final_v1.0.ipynb - Jupyter Notebook with all relevant code
 * requirements.txt - list of packages needed to Sparkify_RNieves_Final_v1.0.ipynb
+* mini_sparkify_event_data.json - Dataset of the project
 
 ## Summary of Results
 
